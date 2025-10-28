@@ -1,0 +1,17 @@
+../STM32WB05N/App/app_stm32wb05n.c:101:6:MX_STM32WB05N_Init	16	static
+../STM32WB05N/App/app_stm32wb05n.c:146:6:MX_STM32WB05N_Process	8	static
+../STM32WB05N/App/app_stm32wb05n.c:166:13:User_Init	24	static
+../STM32WB05N/App/app_stm32wb05n.c:185:9:Sensor_DeviceInit	56	static
+../STM32WB05N/App/app_stm32wb05n.c:353:13:User_Process	24	static
+../STM32WB05N/App/app_stm32wb05n.c:444:13:Set_Random_Environmental_Values	48	static
+../STM32WB05N/App/app_stm32wb05n.c:456:13:Set_Random_Motion_Values	1032	static
+../STM32WB05N/App/app_stm32wb05n.c:497:13:Reset_Motion_Values	4	static
+../STM32WB05N/App/app_stm32wb05n.c:520:9:getSTM32WBVersion	48	static
+../STM32WB05N/App/app_stm32wb05n.c:544:6:BSP_PB_Callback	16	static
+../STM32WB05N/App/app_stm32wb05n.c:557:6:hci_le_enhanced_connection_complete_event	48	static
+../STM32WB05N/App/app_stm32wb05n.c:587:6:hci_le_connection_complete_event	24	static
+../STM32WB05N/App/app_stm32wb05n.c:616:6:hci_disconnection_complete_event	16	static
+../STM32WB05N/App/app_stm32wb05n.c:638:6:aci_gatt_srv_authorize_event	32	static
+../STM32WB05N/App/app_stm32wb05n.c:651:6:aci_gatt_srv_attribute_modified_event	24	static
+../STM32WB05N/App/app_stm32wb05n.c:668:6:aci_gap_pass_key_req_event	24	static
+../STM32WB05N/App/app_stm32wb05n.c:687:6:aci_gap_pairing_complete_event	16	static

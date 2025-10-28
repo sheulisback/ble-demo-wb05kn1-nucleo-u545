@@ -1,0 +1,8 @@
+../Core/Src/stm32u5xx_nucleo_bus.c:87:9:BSP_LPUART1_Init	16	static
+../Core/Src/stm32u5xx_nucleo_bus.c:127:9:BSP_LPUART1_DeInit	16	static
+../Core/Src/stm32u5xx_nucleo_bus.c:154:9:BSP_LPUART1_Send	24	static
+../Core/Src/stm32u5xx_nucleo_bus.c:171:10:BSP_LPUART1_Recv	24	static
+../Core/Src/stm32u5xx_nucleo_bus.c:240:9:BSP_GetTick	8	static
+../Core/Src/stm32u5xx_nucleo_bus.c:246:26:MX_LPUART1_UART_Init	24	static
+../Core/Src/stm32u5xx_nucleo_bus.c:283:13:LPUART1_MspInit	240	static
+../Core/Src/stm32u5xx_nucleo_bus.c:324:13:LPUART1_MspDeInit	16	static

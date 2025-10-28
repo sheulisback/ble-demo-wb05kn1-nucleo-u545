@@ -1,0 +1,7 @@
+../STM32WB05N/Target/hci_tl_interface.c:51:9:HCI_TL_UART_Init	1
+../STM32WB05N/Target/hci_tl_interface.c:76:9:HCI_TL_UART_DeInit	1
+../STM32WB05N/Target/hci_tl_interface.c:88:9:HCI_TL_UART_Reset	1
+../STM32WB05N/Target/hci_tl_interface.c:104:9:HCI_TL_UART_Receive	1
+../STM32WB05N/Target/hci_tl_interface.c:116:9:HCI_TL_UART_Send	1
+../STM32WB05N/Target/hci_tl_interface.c:127:6:hci_tl_lowlevel_init	1
+../STM32WB05N/Target/hci_tl_interface.c:159:6:HAL_UART_RxCpltCallback	2

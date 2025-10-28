@@ -1,0 +1,2 @@
+../STM32WB05N/App/sensor.c:65:6:Set_DeviceConnectable	96	static
+../STM32WB05N/App/sensor.c:147:6:APP_UserEvtRx	48	static
